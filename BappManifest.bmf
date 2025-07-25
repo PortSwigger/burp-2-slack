@@ -1,7 +1,7 @@
 Uuid: 8934dd6be70a4242b39f4ac206cc12d5
 ExtensionType: 1
 Name: Burp2Slack
-RepoName: burp2slack
+RepoName: burp-2-slack
 ScreenVersion: 1.0
 SerialVersion: 2
 MinPlatformVersion: 0
